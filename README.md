@@ -1,2 +1,2 @@
 **Strong** __0x00-vagrant__
-My firs repo in Holberton School!!
+My first repo in Holberton School!!
